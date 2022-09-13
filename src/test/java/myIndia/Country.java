@@ -2,8 +2,8 @@ package myIndia;
 
 public class Country {
 
-	public Country() {
-		// TODO Auto-generated constructor stub
+	public static void main(String[] args) {
+		System.out.println("this is our country");
 	}
 
 }
